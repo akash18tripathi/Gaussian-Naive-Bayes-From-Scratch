@@ -2,6 +2,8 @@
 
 This repository contains the implementation of Gaussian Naive Bayes in a Jupyter Notebook. Gaussian Naive Bayes is a simple and effective algorithm for classification tasks. It is based on Bayes' theorem with the assumption of independence between the features.
 
+If you are unable to render the notebook on github, you can view it [here](https://nbviewer.org/github/akash18tripathi/Gaussian-Naive-Bayes-From-Scratch/blob/main/Gaussian%20Naive%20Bayes.ipynb)
+
 ## Concepts
 
 ### Bayes' Theorem
